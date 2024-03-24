@@ -31,7 +31,7 @@ global.packname = "Sticker By"
 global.author = "🦄드림 가이 Xeon\n\n+2349081437045"
 global.creator = "2349081437045@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2349031616504"] // Premium User
+global.premium = ["2349081437045"] // Premium User
 global.hituet = 0
 
 //bot sett
